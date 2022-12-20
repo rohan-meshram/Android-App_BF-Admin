@@ -1,20 +1,12 @@
 import React from "react";
-import { StyleSheet, View, Text } from "react-native";
+
+import AppNavigator from './src/Navigator/AppNavigator'
 
 const App = () => {
   return(
-    <View style={styles.container}>
-      <Text style={{fontFamily: 'RobotoSlab-Bold', fontSize: 20}}>Demo</Text>
-    </View>
+    <AppNavigator />
   )
 }
 
 export default App
 
-const styles = StyleSheet.create ({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center'
-  }
-})

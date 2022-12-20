@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357700471492",
+    "project_id": "clothingapp-81ac9",
+    "storage_bucket": "clothingapp-81ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357700471492:android:5002305ae13ddedc0e5791",
+        "android_client_info": {
+          "package_name": "com.bf_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357700471492-pqsitpcni2o0kil908qi6loaujrn5hmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bf_admin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "357700471492-gclsvmsgv506l7r5mpegg5ercirvgj27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQAY1p_OvMhzH3OQvBUL_L0CKm5WXU8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357700471492-gclsvmsgv506l7r5mpegg5ercirvgj27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
